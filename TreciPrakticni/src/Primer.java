@@ -6,5 +6,5 @@ public class Primer {
 		}
 		return result;
 	}
-
 }
+
