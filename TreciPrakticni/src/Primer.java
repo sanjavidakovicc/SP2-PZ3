@@ -1,4 +1,3 @@
-
 public class Primer {
 	
 	/*calcultes sum of first n elements
